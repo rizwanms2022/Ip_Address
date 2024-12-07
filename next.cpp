@@ -5,6 +5,10 @@ int main()
 {
     cout<<"Rizwan AHmed\n";
     cout<<"Rizwan Baloch\n";
-    cout<<"Rizwan Baloch";
+    for (size_t i = 0; i < 100; i++)
+    {
+        cout<<"Got it  ";
+    }
+    
     return 0;
 }
