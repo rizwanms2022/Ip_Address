@@ -1,5 +1,7 @@
 #include <iostream>
 #include <bitset>
+#include <bitset>
+using namespace std;
 using namespace std;
 
 void tobinary(int a)
